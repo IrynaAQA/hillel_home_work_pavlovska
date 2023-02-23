@@ -46,5 +46,3 @@ uah = float(input('Enter the amount in uah that you want to convert into dollars
 exchange_rate = uah / usd
 exchange_rate = round(exchange_rate, 2)
 print('The current rate is: ', exchange_rate)
-
-print('\n', 'The end')
